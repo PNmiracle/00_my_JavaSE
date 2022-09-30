@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project01/Project01.iml" filepath="$PROJECT_DIR$/Project01/Project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project02-i/Project02-i.iml" filepath="$PROJECT_DIR$/Project02-i/Project02-i.iml" />
+      <module fileurl="file://E:/文档/1JavaWenDang/0-JavaSE/2_项目/Project3（开发团队人员调度软件）/Project3（开发团队人员调度软件）/3.2-参考实现/最终代码/Project03/Project03.iml" filepath="E:/文档/1JavaWenDang/0-JavaSE/2_项目/Project3（开发团队人员调度软件）/Project3（开发团队人员调度软件）/3.2-参考实现/最终代码/Project03/Project03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project03-i/Project03-i.iml" filepath="$PROJECT_DIR$/Project03-i/Project03-i.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02_循环控制/ch02_循环控制.iml" filepath="$PROJECT_DIR$/ch02_循环控制/ch02_循环控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-Array/ch03-Array.iml" filepath="$PROJECT_DIR$/ch03-Array/ch03-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-OOP1/ch04-OOP1.iml" filepath="$PROJECT_DIR$/ch04-OOP1/ch04-OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-OOP2/ch05-OOP2.iml" filepath="$PROJECT_DIR$/ch05-OOP2/ch05-OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-OOP3/ch06-OOP3.iml" filepath="$PROJECT_DIR$/ch06-OOP3/ch06-OOP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-Exception/ch07-Exception.iml" filepath="$PROJECT_DIR$/ch07-Exception/ch07-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-Thread/ch08-Thread.iml" filepath="$PROJECT_DIR$/ch08-Thread/ch08-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-Commonly_used_class/ch09-Commonly_used_class.iml" filepath="$PROJECT_DIR$/ch09-Commonly_used_class/ch09-Commonly_used_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-enum&amp;annotation/ch10-enum&amp;annotation.iml" filepath="$PROJECT_DIR$/ch10-enum&amp;annotation/ch10-enum&amp;annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11-Collection/ch11-Collection.iml" filepath="$PROJECT_DIR$/ch11-Collection/ch11-Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12_Generic_File/ch12_Generic_File.iml" filepath="$PROJECT_DIR$/ch12_Generic_File/ch12_Generic_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13_IO/ch13_IO.iml" filepath="$PROJECT_DIR$/ch13_IO/ch13_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14_InternetProgramming/ch14_InternetProgramming.iml" filepath="$PROJECT_DIR$/ch14_InternetProgramming/ch14_InternetProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15_Reflection/ch15_Reflection.iml" filepath="$PROJECT_DIR$/ch15_Reflection/ch15_Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16_Java8NewFeatures/ch16_Java8NewFeatures.iml" filepath="$PROJECT_DIR$/ch16_Java8NewFeatures/ch16_Java8NewFeatures.iml" />
+    </modules>
+  </component>
+</project>
