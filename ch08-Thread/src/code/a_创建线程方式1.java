@@ -11,8 +11,7 @@ package code;
  *     //3.创建子类的对象
  *     //4.通过子类对象调用start方法
  */
-public class a_NewOption1 {
-
+public class a_创建线程方式1 {
     public static void main(String[] args) {
         //3.创建子类的对象
         MyThread t1 = new MyThread();

@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/ch06-OOP3/ch06-OOP3.iml" filepath="$PROJECT_DIR$/ch06-OOP3/ch06-OOP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch07-Exception/ch07-Exception.iml" filepath="$PROJECT_DIR$/ch07-Exception/ch07-Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch08-Thread/ch08-Thread.iml" filepath="$PROJECT_DIR$/ch08-Thread/ch08-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch08-Thread1多线程/ch08-Thread1多线程.iml" filepath="$PROJECT_DIR$/../ch08-Thread1多线程/ch08-Thread1多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-Thread1多线程/ch08-Thread1多线程1.iml" filepath="$PROJECT_DIR$/ch08-Thread1多线程/ch08-Thread1多线程1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch09-Commonly_used_class/ch09-Commonly_used_class.iml" filepath="$PROJECT_DIR$/ch09-Commonly_used_class/ch09-Commonly_used_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch10-enum&amp;annotation/ch10-enum&amp;annotation.iml" filepath="$PROJECT_DIR$/ch10-enum&amp;annotation/ch10-enum&amp;annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch11-Collection/ch11-Collection.iml" filepath="$PROJECT_DIR$/ch11-Collection/ch11-Collection.iml" />
