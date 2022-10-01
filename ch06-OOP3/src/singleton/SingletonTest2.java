@@ -33,6 +33,7 @@ class Order{
         //条件判断过滤,避免每次都调方法都要new一次,在堆空间中new出多个对象
         //多个线程同时来调getInstance()
         if (instance == null) {
+
             synchronized (Bank.class) {
                 //到这里可能阻塞或者cpu切换,当前某一线程进入就绪(WAITING)状态
                 //在这时另一个线程也进来了,就会new多次,不为单例模式,

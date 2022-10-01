@@ -1,19 +1,23 @@
 package code1;
 
+import java.util.concurrent.locks.ReentrantLock;
+
 /**
  * @Author mapKey
- * @Date 2022-09-30-4:49 PM
+ * @Date 2022-10-01-1:45 PM
  */
-
-class Window1 implements Runnable {
-    // 天然的共享数据
+class Window2 implements Runnable {
     private int ticket = 100;
+
+    private ReentrantLock lock = new ReentrantLock(true);
     @Override
     public void run() {
         while (true) {
+            try {
+                lock.lock();
 
-            synchronized (this) {
                 if (ticket > 0) {
+
                     try {
                         Thread.sleep(100);
                     } catch (InterruptedException e) {
@@ -21,18 +25,21 @@ class Window1 implements Runnable {
                     }
 
 
-                    System.out.println(Thread.currentThread().getName() + ":卖票, 票号为 : " + ticket);
+                    System.out.println(Thread.currentThread().getName() + ": sell ticket, The Num is : " + ticket);
                     ticket--;
                 } else {
                     break;
                 }
+            } finally {
+                lock.unlock();
             }
         }
     }
 }
-public class d_多窗口卖票_实现Runnable接口方式 {
+public class g_Lock锁_解决安全方式三 {
     public static void main(String[] args) {
-        Window1 w = new Window1();
+        Window2 w = new Window2();
+
         Thread t1 = new Thread(w);
         Thread t2 = new Thread(w);
         Thread t3 = new Thread(w);
@@ -44,6 +51,5 @@ public class d_多窗口卖票_实现Runnable接口方式 {
         t1.start();
         t2.start();
         t3.start();
-
     }
 }
