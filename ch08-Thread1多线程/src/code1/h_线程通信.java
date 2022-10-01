@@ -2,7 +2,7 @@ package code1;
 
 /**
  * @Author mapKey
- * @Date 2022-10-01-2:22 PM
+ * @Date 2022-10-01-2:22 PM1
  */
 class Number implements Runnable {
     private int number = 1;
